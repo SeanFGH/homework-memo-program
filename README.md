@@ -1,4 +1,5 @@
 安裝依賴庫：
+
 安裝所需的 Python 庫：
 `pip install tkinter`
 `pip install SQLAlchemy`
