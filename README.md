@@ -4,6 +4,8 @@
 
 `pip install tkinter`
 
+`pip install tkcalendar`
+
 `pip install SQLAlchemy`
 
 `pip install mysql-connector-python`
