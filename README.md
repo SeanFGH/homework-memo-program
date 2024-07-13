@@ -10,9 +10,15 @@
 
 設定資料庫：
 
-更新 DATABASE_URI 變數為你的 MySQL 資料庫連接資訊：
+更新 db_config.txt 變數為你的 MySQL 資料庫連接資訊：
 
-`DATABASE_URI = 'mysql+mysqlconnector://username:password@localhost/memos_db'`
+`username:your_username`
+
+`password:your_password`
+
+`host:localhost`
+
+`database:memos_db`
 
 運行應用：
 
